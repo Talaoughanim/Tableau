@@ -1,0 +1,64 @@
+*{
+    font-size: x-large;
+}
+
+table {
+    border: medium solid #6495ed;
+    border-collapse: collapse;
+    width: 50%;
+    }
+
+
+.S36{
+    background-color: grey;
+}
+
+.S37{
+    background-color: grey;
+}
+
+.S38{
+    background-color: grey;
+}
+
+.S39{
+    background-color: grey;
+}
+
+.S40{
+    background-color: grey;
+}
+
+.footer{
+    text-align: center;
+    position: center;
+    
+}
+
+.color0{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    font-style: italic;
+    color: white;
+    background-color: grey;
+}
+
+.color1{
+    background-color: cadetblue;
+}
+
+.color2{
+    background-color: greenyellow;
+}
+
+.color3{
+    background-color: cadetblue;
+}
+
+.color4{
+    background-color: greenyellow;
+}
+
+.color5{
+    background-color: cadetblue;
+}
