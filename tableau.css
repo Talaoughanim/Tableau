@@ -1,13 +1,20 @@
 *{
     font-size: x-large;
+    text-align: center;
+    border-collapse: collapse;
 }
 
 table {
-    border: medium solid #6495ed;
-    border-collapse: collapse;
-    width: 50%;
-    }
+     border-collapse: collapse;
+     border: 2px solid rgb(146, 146, 146);
+    
+}
 
+th, td{
+    border: 1px solid black
+}
+
+        
 
 .S36{
     background-color: grey;
