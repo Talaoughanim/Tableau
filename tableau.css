@@ -16,25 +16,11 @@ th, td{
 
         
 
-.S36{
+.S36, .S37, .S38, .s39, .S40{
     background-color: grey;
+
 }
 
-.S37{
-    background-color: grey;
-}
-
-.S38{
-    background-color: grey;
-}
-
-.S39{
-    background-color: grey;
-}
-
-.S40{
-    background-color: grey;
-}
 
 .footer{
     text-align: center;
@@ -50,22 +36,10 @@ th, td{
     background-color: grey;
 }
 
-.color1{
+.color1, .color3, .color5{
     background-color: cadetblue;
 }
 
-.color2{
+.color2, .color4{
     background-color: greenyellow;
-}
-
-.color3{
-    background-color: cadetblue;
-}
-
-.color4{
-    background-color: greenyellow;
-}
-
-.color5{
-    background-color: cadetblue;
 }
