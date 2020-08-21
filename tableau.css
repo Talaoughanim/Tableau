@@ -16,15 +16,16 @@ th, td{
 
         
 
-.S36, .S37, .S38, .s39, .S40{
+.Semaine{
     background-color: grey;
+    font-weight: normal;
 
 }
 
 
 .footer{
     text-align: center;
-    position: center;
+    font-style: italic ;
     
 }
 
@@ -36,10 +37,16 @@ th, td{
     background-color: grey;
 }
 
-.color1, .color3, .color5{
+.color1 {
     background-color: cadetblue;
 }
 
-.color2, .color4{
+.color2 {
     background-color: greenyellow;
+}
+
+caption {
+    background-color: grey;
+    border: black 1px solid;
+
 }
